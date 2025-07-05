@@ -1,0 +1,33 @@
+{
+  "name": "nxt-ollama",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@cloudscape-design/chat-components": "^1.0.53",
+    "@cloudscape-design/components": "^3.0.1016",
+    "@cloudscape-design/design-tokens": "^3.0.58",
+    "@cloudscape-design/global-styles": "^1.0.44",
+    "@langchain/core": "^0.3.62",
+    "@langchain/ollama": "^0.2.3",
+    "next": "15.3.5",
+    "ollama": "^0.5.16",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "typescript": "^5"
+  }
+}

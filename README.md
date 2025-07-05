@@ -24,6 +24,10 @@ A modern chatbot application built with Next.js 15 and [Cloudscape Design](https
 - **AI Integration**: Ollama (via LangChain with InMemoryStore)
 - **Language**: TypeScript
 
+## Screenshots
+
+![Ollama ChatUI screenshot](./public/ollama-chat-nextjs.png)
+
 ## Project Structure
 
 ```shell
